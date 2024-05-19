@@ -29,5 +29,5 @@
 
 ## Полезные ссылки
 
-* Скачивание браузера - https://chromedriver.storage.googleapis.com/index.html
+* Скачивание драйвера для браузера - https://chromedriver.storage.googleapis.com/index.html
 * Список опций Chromium - https://peter.sh/experiments/chromium-command-line-switches/
